@@ -1,0 +1,10 @@
+{
+    "name": "node-danthes-client"
+  , "version": "0.0.1"
+  , "author": "Termina1"
+  , "dependencies": {
+      "yaml": "*",
+      "faye": "*",
+      "config": "*"
+  }
+}

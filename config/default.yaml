@@ -1,0 +1,4 @@
+Danthes:
+  server: "http://localhost:9292"
+  secret_token: "secret"
+  mount: '/faye'
